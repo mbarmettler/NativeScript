@@ -79,4 +79,4 @@ application.on(application.uncaughtErrorEvent, function (args: application.Appli
 });
 
 application.cssFile = "ui-tests-app/app.css";
-application.start({ moduleName: "ui-tests-app/mainPage" });
+application.start({ moduleName: "ui-tests-app/action-bar/all" });
