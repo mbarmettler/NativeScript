@@ -1,7 +1,7 @@
 <Page>
   <Page.actionBar>
     <ActionBar title="Page Title" style="background-color: blue; color: yellow;">
-      <!--<NavigationButton text="go back"/>-->
+      <!--<NavigationButton icon="res://icon" text="test"/>-->
       <ActionBar.actionItems>
         <ActionItem ios.systemIcon="12" />
         <ActionItem text="Item" />
